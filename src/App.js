@@ -10,7 +10,7 @@ function App() {
     </Stack>
 
     <div className="boxes">
-      
+      <Boxes></Boxes>
     </div>
 
   </div>
